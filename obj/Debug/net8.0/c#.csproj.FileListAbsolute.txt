@@ -12,3 +12,4 @@ C:\Users\hp\Downloads\dev\c#\obj\Debug\net8.0\refint\c#.dll
 C:\Users\hp\Downloads\dev\c#\obj\Debug\net8.0\c#.pdb
 C:\Users\hp\Downloads\dev\c#\obj\Debug\net8.0\c#.genruntimeconfig.cache
 C:\Users\hp\Downloads\dev\c#\obj\Debug\net8.0\ref\c#.dll
+C:\Users\hp\Downloads\dev\c#\obj\Debug\net8.0\c#.sourcelink.json
